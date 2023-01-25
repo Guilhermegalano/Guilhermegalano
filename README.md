@@ -46,11 +46,11 @@
 
 
 <a href="https://www.linkedin.com/in/guilherme-galano/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-GuilhermeGalano-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/gui_gallano/" target="_blank">
- <img align="center" src="httpsd://img.shields.io/badge/-GuilhermeGalano-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-GuilhermeGalano-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 </p>
@@ -60,27 +60,6 @@
 
 
 
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-
-
-### Helo 👋
-
-
-
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, SQL, C++, NODE, wordpress ... 
-- 📫 How to reach me: galano1999@outlook.com...
 
