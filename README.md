@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at Cohab campinas as junior support analyst 
 
-- 💬 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, SQL, C++, NODEJS. 
+- 💬 I’m currently learning HTML, CSS, JAVASCRIPT, REACT NAVITE. 
 
 
 
